@@ -51,6 +51,7 @@ La imagen muestra las tablas y columnas de la base de datos. Las columnas en ama
 3. Clona el proyecto: Para descargar el proyecto, puede utilizar el siguiente comando:
 
 ```
+    https://gitlab.com/Willydmq/reservacion-express.git
 
 ```
 

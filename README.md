@@ -51,7 +51,7 @@ La imagen muestra las tablas y columnas de la base de datos. Las columnas en ama
 3. Clona el proyecto: Para descargar el proyecto, puede utilizar el siguiente comando:
 
 ```
-    https://gitlab.com/Willydmq/reservacion-express.git
+    https://github.com/germaldonado/reservacion-express.git
 
 ```
 
@@ -112,7 +112,7 @@ Esta estructura divide el proyecto en capas, cada una de las cuales tiene un pro
 
 ## Autores ✒️
 
-- **William Maldonado** - _Edición #3: Challenge ONE Back End Java Sprint 01_ - [Willydmq](https://gitlab.com/Willydmq)
+- **German Maldonado** - _Edición #3: Challenge ONE Back End Java Sprint 01_ - [germaldonado](https://github.com/germaldonado)
 
 ## Expresiones de Gratitud
 
@@ -124,6 +124,6 @@ Este proyecto es solo el comienzo de mi viaje como desarrollador. Estoy emociona
 
 ---
 
-⌨️ con ❤️ por [William Maldonado](https://gitlab.com/Willydmq) 😊
+⌨️ con ❤️ por [German Maldonado](https://github.com/germaldonado) 😊
 
 ---

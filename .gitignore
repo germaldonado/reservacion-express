@@ -1,0 +1,6 @@
+# Excluir el archivo .env
+.env
+
+# Excluir la carpeta bin
+bin/
+/dist/

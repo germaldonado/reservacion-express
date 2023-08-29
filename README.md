@@ -17,7 +17,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="/src/imagenes/express.png" width="50px">
-    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://gitlab.com/Willydmq/convert" target="_blank">Reservación Express</a>
+    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://github.com/germaldonado/reservacion-express" target="_blank">Reservación Express</a>
 </div>
 
 ## Instalación ⚙️
